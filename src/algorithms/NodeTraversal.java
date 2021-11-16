@@ -5,8 +5,6 @@
  */
 package algorithms;
 
-import jdk.internal.jimage.ImageReader.Node;
-
 /**
  *
  * @author MC03353
