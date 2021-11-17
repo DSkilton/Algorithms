@@ -9,6 +9,7 @@ public class Main{
 //    private static int[] iArray = {1,9,2,3,4,5,6};
 
     public static void main(String[] args) {
+        System.out.println(Anagram.anagramSolution("caked", "cake"));
         nodeTraversal();
 //        SelectionSort sel = new SelectionSort(); 
 //        System.out.println(Arrays.toString(iArray));
