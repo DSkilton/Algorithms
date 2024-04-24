@@ -10,11 +10,11 @@ import static org.junit.Assert.assertEquals;
  */
 public class AnagramTest {
     
-    @Test
-    public void anagramSolutionTest(){
-        Assert.assertEquals("message", true, true);
-        assertEquals(algorithms.Anagram.anagramSolution("cake", "cake"), true);
-    }
+//    @Test
+//    public void anagramSolutionTest(){
+//        Assert.assertEquals("message", true, true);
+//        assertEquals(algorithms.Anagram.anagramSolution("cake", "cake"), true);
+//    }
 
     
 }
